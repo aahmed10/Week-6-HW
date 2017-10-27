@@ -13,3 +13,16 @@ body {
   background-attachment: fixed;
   background-position: center; 
 }
+
+.gifContainer {
+  margin: 10px;
+  display: inline-block;
+}
+.searchButtons {
+  margin: 7px 10px;
+}
+
+.gifRating {
+  color: white;
+  font-size: 17px;
+}
